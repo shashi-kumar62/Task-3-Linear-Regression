@@ -56,8 +56,6 @@ The model explains approximately 65% of the variance in house prices.
 
 ### Simple Linear Regression (Area vs Price)
 
-R² Score: (Add your simple regression R² here)
-
 Multiple regression performs better than simple regression because it considers multiple features.
 
 ---
