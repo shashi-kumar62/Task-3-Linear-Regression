@@ -168,4 +168,4 @@ print(vif_data)
 # ==========================================================
 # END OF TASK
 # ==========================================================
-print("\nTask Completed Successfully 🚀")
+print("\nTask Completed Successfully")
